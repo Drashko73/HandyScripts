@@ -9,8 +9,7 @@ Please feel free to explore, contribute, and adapt these scripts to your needs. 
 
 # List of available scripts ✔️
 * [Zip and unzip files][ref_zip]
-* [Get notification after something new is published at the news board][ref_imi] (Used personally)
-
+* [Get notification after something new is published at the news board][ref_imi]
 
 [ref_zip]: https://github.com/Drashko73/HandyScripts/blob/main/Scripts/file-zipper.py
 [ref_imi]: https://github.com/Drashko73/HandyScripts/blob/main/Scripts/imi-news-scraper.py
